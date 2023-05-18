@@ -1,0 +1,6 @@
+Log Tarihi: 27.03.2023 20:37:09 Log Türü: Error Log Mesajı: Hata Mesajı: Invalid attempt to call CheckDataIsReady when reader is closed.
+Log Tarihi: 27.03.2023 20:37:39 Log Türü: Error Log Mesajı: Hata Mesajı: Invalid attempt to call CheckDataIsReady when reader is closed.
+Log Tarihi: 27.03.2023 21:06:50 Log Türü: Insert Log Mesajı: 5Id değerine veDeneme Oyunuisim değerine sahip oyun eklendi!
+Log Tarihi: 27.03.2023 21:07:23 Log Türü: Insert Log Mesajı: 6Id değerine veDeneme Oyunu2isim değerine sahip oyun eklendi!
+Log Tarihi: 7.04.2023 21:12:01 Log Türü: Error Log Mesajı: Hata: An error occurred while updating the entries. See the inner exception for details.
+Log Tarihi: 7.04.2023 21:13:04 Log Türü: Error Log Mesajı: Hata: An error occurred while updating the entries. See the inner exception for details.

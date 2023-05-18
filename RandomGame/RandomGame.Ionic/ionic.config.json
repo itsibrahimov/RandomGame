@@ -1,0 +1,7 @@
+{
+  "name": "RandomGame.Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

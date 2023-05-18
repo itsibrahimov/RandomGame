@@ -1,0 +1,63 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Blank
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Blank</ion-title>
+    </ion-toolbar>
+  </ion-header>
+ 
+  <div>
+    <ion-card>
+      <img alt="Silhouette of mountains" src="{{GameModelList[0]['images'][0]['ImageURL']}}" />
+      <ion-card-header>
+        <ion-card-title>{{GameModelList[0]['gameName']}}</ion-card-title>
+        <ion-card-subtitle>{{GameModelList[0]['price']}}</ion-card-subtitle>
+      </ion-card-header>
+    
+      <ion-card-content>
+        {{GameModelList[0]['description']}}
+      </ion-card-content>
+    </ion-card>
+    <ion-card>
+      <img alt="Silhouette of mountains" src="{{GameModelList[1]['images'][0]['ImageURL']}}" />
+      <ion-card-header>
+        <ion-card-title>{{GameModelList[1]['gameName']}}</ion-card-title>
+        <ion-card-subtitle>{{GameModelList[1]['price']}}</ion-card-subtitle>
+      </ion-card-header>
+    
+      <ion-card-content>
+        {{GameModelList[1]['description']}}
+      </ion-card-content>
+    </ion-card>
+    <ion-card>
+      <img alt="Silhouette of mountains" src="{{GameModelList[2]['images'][0]['ImageURL']}}" />
+      <ion-card-header>
+        <ion-card-title>{{GameModelList[2]['gameName']}}</ion-card-title>
+        <ion-card-subtitle>{{GameModelList[2]['price']}}</ion-card-subtitle>
+      </ion-card-header>
+    
+      <ion-card-content>
+        {{GameModelList[2]['description']}}
+      </ion-card-content>
+    </ion-card>
+    <ion-card>
+      <img alt="Silhouette of mountains" src="{{GameModelList[3]['images'][0]['ImageURL']}}" />
+      <ion-card-header>
+        <ion-card-title>{{GameModelList[3]['gameName']}}</ion-card-title>
+        <ion-card-subtitle>{{GameModelList[3]['price']}}</ion-card-subtitle>
+      </ion-card-header>
+    
+      <ion-card-content>
+        {{GameModelList[3]['description']}}
+      </ion-card-content>
+    </ion-card>
+  </div>
+
+</ion-content>
